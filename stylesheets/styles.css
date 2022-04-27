@@ -6,8 +6,8 @@ body {
 
 /* 2do commit - Cambiar el color de los textos y botones de las redes sociales */
 ul li a p {
-  color          : #FFFFFF;
-  background     : #E94016;
+  color          : #f80808;
+  background     : #07f1e6bb;
   width          : 75%;
   list-style-type: none;
   padding        : .3em 1em .3em;
